@@ -1,0 +1,33 @@
+>Question1:
+
+>What do you hack for?
+>When I was still a freshman, I had no knowledge of real life solutions. At that time I attended hacks to learn how to make stuff, and honestly I was extremely bad at it, and I used to feel so insulted, at point I stopped attending hacks(bad phase) but when I was ready with a decent amount of knowledge, I decided to give it one more shot and Isuprisingly realized I enjoyed hackathons so much, solving real world problems with such enthusiasm in such a short time, it is amazing! After that I haven't left even one hack in my sight. And of course some pretty good wins at national and international level always encourages someone. One more motivation for me is I find where I lack when it comes to cut throat competition. As a dev solving problems and learning at the same time, what else one wants.
+
+>Question2:
+
+>What is a project that you've worked on that you're proud of?
+>My father has to file in a lot of reports manually, he still is old fashioned and prefers notebooks, but its not his fault completely he never found a decent enough software to do his billing properly, mainly because it's not like normally billing, there are some pretty different specifications of company. Seeing this I took up the job to make one for him, it takes automatic audits and reports from his employees, and does all the necessary formalities, generates reports for him and also files them on the website(a bit of web scraping). It's not like I have not built better stuff then this, as a part of a DSC-VIT, I have even collaborated with local government to help with election proceedings(that's a different story), but yes this a thing I am proud of, to be able to help my father with my knowledge.
+
+>Question3:
+
+>Describe the best team you've ever worked on?
+>One of the best teams, with which I had most fun and learned the most is one of my hackathon team, we are group of devs, designers and videographers. We initially just grouped up for a hackathon in our college. That hack went so well for us, we went to almost all the hacks with the same team, we even have a good name among the hack community in our college. Next is the dev teams of DSC-VIT and IEEE-VIT, I have had a very good learning experience in both, continously facing new chanllenging projects and growing as a community.
+
+>Question4:
+
+>What would you like to see at HackMIT, especially considering it's virtual?
+>I would like to see some more talks then usual especially on lesser known topics like DevSecOps, or distributed system management in big companies, or even latest AI research talks from pioneers in the domain. Also some virtual food(jk).
+
+>Question5:
+
+>Favorite social distancing activity?
+>Coding, too generic answer I know, but I have been mainly doing this whole of the time. I forget the flow of time while deep in some good learning/coding stuff.
+
+>Question:
+
+> Briefly describe your background in computer science. What kinds of programming experiences have you had? 
+> I started my programming journey when I entered my college, I was a complete newbie to computer science, but was extremely interested in learning, till the end of first semester, I used to do only competitive coding mainly, after that I joined IEEE-VIT and DSC-VIT, the IEEE and DSC student branches of our college, after that I have never looked back, due to such an engaging community/peer exposure, I learnt everything from Fullstack, to AppDev, to DeepLearning, it has been a fun experience.
+
+We do a lot of projects, varying from useful mobile applications to tiling managers, and PRs in opensource repositories, all our current work has been opensource and you can find it here: https://github.com/GDGVIT, this has given a me exposure to a lot of real-life problems, and ways to solve it efficiently.
+
+Then I started taking up freelance projects, attending hackathons, at first they were just local hackathons, I gradually moved up the ladder by slowly winning on state and national levels, my current aim is to attend several international hackathons, I have been selected for HopHacks 2020, and am looking for furthermore exciting opportunities in several others too.

@@ -1,0 +1,85 @@
+.navbar{
+    background-color: black;
+    margin-top: -8px;
+    width: 100%;
+    margin-left: 0px;
+    height: 80px;
+    display: flex;
+}
+
+.logo{
+    margin-left: 21px;
+    margin-top: 28px;
+    margin-bottom: auto;
+}
+
+.home{
+    margin-left: auto;
+    color: white;
+    margin-top: 28px;
+    margin-right: 10px;
+    font-size: 21;
+    /* text-decoration: underline; */
+    /* border-bottom: 1px solid white; */
+    /* border: 2px solid red; */
+    /* padding-bottom: 0px; */
+}
+
+.home:hover{
+    color: #00FFFF;
+}
+
+.features{
+    /* margin-left: auto; */
+    margin-right: 10px;
+    margin-left: 10px;
+    color: white;
+    margin-top: 28px;
+    font-size: 21;
+}
+
+.features:hover{
+    color: #00FFFF;
+}
+
+.team{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: white;
+    margin-top: 28px;
+    font-size: 21;
+}
+
+.team:hover{
+    color: #00FFFF;
+}
+
+.mainVideo{
+    border: 2px solid red;
+    height: 600px;
+    margin-left: 0px;
+    width: 100%;
+    background-color: grey;
+}
+
+video{
+    border: 2px solid green;
+    height: 600px;
+    margin-left: 20px;
+    /* width: 100%; */
+}
+
+.floatingWords{
+    position: absolute;
+    margin-left: 30%;
+    margin-top: -25%;
+    font-size: 50;
+    color: yellow;
+}
+
+.floatingButton{
+    position: absolute;
+    background-color: blue;
+    font-weight: 50;
+    color: white;
+}
